@@ -15,3 +15,4 @@ Sal=` expr $b + $dp + $da + $hra + $ma - $pf `
 #echo "Dp: $dp" 
 #echo "Da: $da" 
 echo "Salary based on the Basic: $Sal" 
+echo "This is for testing Poll SCM"
