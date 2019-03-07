@@ -1,8 +1,7 @@
 #!bin/bash
 #echo "Enter BasiC:"
 #read b
-
-b= 1000
+b=$1
 dp=` expr $b \* 50 / 100 `
 #da=` expr ($b + $dp) \* 35 / 100 `
 bdp=` expr $b + $dp `
